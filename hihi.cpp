@@ -8,5 +8,6 @@ int main(){
     cout << "how to do it in terminal\n";
 
     int a = 10;
+    string s = "test";
     return 0;
 }
